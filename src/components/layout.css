@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.fahome {
+
+    color: blue;
+}
+
+.nav-item {
+
+    padding: 0px 2rem;
+}
+
+.text {
+
+    font-weight: 600;
+}
+
+.login {
+
+    border: 1px solid #E3E2EA;
+    color: blue;
+    font-weight: 500;
+}
+
+.signup {
+
+    color: white;
+    background-color: blue;
+    font-weight: 500;
+}
+
+
+.navbar-light .navbar-nav .nav-link.active {
+
+    color: blue;
+    background-color: #E3E2EA ;
+}
+
+.nav-item {
+
+    font-weight: 550;
+}
+
